@@ -6,3 +6,8 @@ body{
 a {
     color:white;
 }
+
+p{
+    width: 50%;
+    text-align:left;
+}
